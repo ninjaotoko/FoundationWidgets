@@ -28,7 +28,7 @@ class Foundation_Orbit_Widget extends WP_Widget {
                 'classname' => 'foundation-orbit-widget', 
                 'description' => __('Crea un widget con Orbit', 'text_domain')
             )
-        )
+        );
 
         //$options = array('classname' => 'foundation-orbit-widget',
         //    'description' => 'Crea un widget con Orbit');
